@@ -1,0 +1,77 @@
+fileFormatVersion: 2
+guid: ef37b47e19b93184f999c01e2e9e37e5
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/bunkCass
+    100002: _MapPrfab/bunkCass/boxes
+    100022: _MapPrfab/bunkCass/dresser
+    100024: _MapPrfab/bunkCass/dummies
+    100026: _MapPrfab/bunkCass/dummiesNote
+    100028: _MapPrfab/bunkCass/floor
+    100030: _MapPrfab/bunkCass/objects
+    100032: _MapPrfab/bunkCass/walls
+    400000: _MapPrfab/bunkCass/Transform
+    400002: _MapPrfab/bunkCass/boxes/Transform
+    400022: _MapPrfab/bunkCass/dresser/Transform
+    400024: _MapPrfab/bunkCass/dummies/Transform
+    400026: _MapPrfab/bunkCass/dummiesNote/Transform
+    400028: _MapPrfab/bunkCass/floor/Transform
+    400030: _MapPrfab/bunkCass/objects/Transform
+    400032: _MapPrfab/bunkCass/walls/Transform
+    11400000: _MapPrfab/bunkCass/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/bunkCass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/bunkCass/boxes/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/bunkCass/boxes/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/bunkCass/boxes/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400062: _MapPrfab/bunkCass/dresser/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400064: _MapPrfab/bunkCass/dresser/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400066: _MapPrfab/bunkCass/dresser/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400068: _MapPrfab/bunkCass/dummies/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400070: _MapPrfab/bunkCass/dummies/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400072: _MapPrfab/bunkCass/dummies/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400074: _MapPrfab/bunkCass/dummiesNote/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400076: _MapPrfab/bunkCass/dummiesNote/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/bunkCass/dummiesNote/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400080: _MapPrfab/bunkCass/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400082: _MapPrfab/bunkCass/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/bunkCass/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400086: _MapPrfab/bunkCass/objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400088: _MapPrfab/bunkCass/objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400090: _MapPrfab/bunkCass/objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400092: _MapPrfab/bunkCass/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400094: _MapPrfab/bunkCass/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400096: _MapPrfab/bunkCass/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400098: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/bunkCass/Grid
+    3664157343022684176: _MapPrfab/bunkCass/boxes/TilemapRenderer
+    3664157343022684178: _MapPrfab/bunkCass/dresser/TilemapRenderer
+    3664157343022684180: _MapPrfab/bunkCass/dummies/TilemapRenderer
+    3664157343022684182: _MapPrfab/bunkCass/dummiesNote/TilemapRenderer
+    3664157343022684184: _MapPrfab/bunkCass/floor/TilemapRenderer
+    3664157343022684186: _MapPrfab/bunkCass/objects/TilemapRenderer
+    3664157343022684188: _MapPrfab/bunkCass/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/bunkCass/boxes/Tilemap
+    8195094279510102544: _MapPrfab/bunkCass/dresser/Tilemap
+    8195094279510102546: _MapPrfab/bunkCass/dummies/Tilemap
+    8195094279510102548: _MapPrfab/bunkCass/dummiesNote/Tilemap
+    8195094279510102550: _MapPrfab/bunkCass/floor/Tilemap
+    8195094279510102552: _MapPrfab/bunkCass/objects/Tilemap
+    8195094279510102554: _MapPrfab/bunkCass/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

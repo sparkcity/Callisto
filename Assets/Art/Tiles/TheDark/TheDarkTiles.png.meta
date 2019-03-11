@@ -1,0 +1,2683 @@
+fileFormatVersion: 2
+guid: 9f5ca6008a4d1b845b1fcff00b03967c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TheDarkTiles_0
+    21300002: TheDarkTiles_1
+    21300004: TheDarkTiles_2
+    21300006: TheDarkTiles_3
+    21300008: TheDarkTiles_4
+    21300010: TheDarkTiles_5
+    21300012: TheDarkTiles_6
+    21300014: TheDarkTiles_7
+    21300016: TheDarkTiles_8
+    21300018: TheDarkTiles_9
+    21300020: TheDarkTiles_10
+    21300022: TheDarkTiles_11
+    21300024: TheDarkTiles_12
+    21300026: TheDarkTiles_13
+    21300028: TheDarkTiles_14
+    21300030: TheDarkTiles_15
+    21300032: TheDarkTiles_16
+    21300034: TheDarkTiles_17
+    21300036: TheDarkTiles_18
+    21300038: TheDarkTiles_19
+    21300040: TheDarkTiles_20
+    21300042: TheDarkTiles_21
+    21300044: TheDarkTiles_22
+    21300046: TheDarkTiles_23
+    21300048: TheDarkTiles_24
+    21300050: TheDarkTiles_25
+    21300052: TheDarkTiles_26
+    21300054: TheDarkTiles_27
+    21300056: TheDarkTiles_28
+    21300058: TheDarkTiles_29
+    21300060: TheDarkTiles_30
+    21300062: TheDarkTiles_31
+    21300064: TheDarkTiles_32
+    21300066: TheDarkTiles_33
+    21300068: TheDarkTiles_34
+    21300070: TheDarkTiles_35
+    21300072: TheDarkTiles_36
+    21300074: TheDarkTiles_37
+    21300076: TheDarkTiles_38
+    21300078: TheDarkTiles_39
+    21300080: TheDarkTiles_40
+    21300082: TheDarkTiles_41
+    21300084: TheDarkTiles_42
+    21300086: TheDarkTiles_43
+    21300088: TheDarkTiles_44
+    21300090: TheDarkTiles_45
+    21300092: TheDarkTiles_46
+    21300094: TheDarkTiles_47
+    21300096: TheDarkTiles_48
+    21300098: TheDarkTiles_49
+    21300100: TheDarkTiles_50
+    21300102: TheDarkTiles_51
+    21300104: TheDarkTiles_52
+    21300106: TheDarkTiles_53
+    21300108: TheDarkTiles_54
+    21300110: TheDarkTiles_55
+    21300112: TheDarkTiles_56
+    21300114: TheDarkTiles_57
+    21300116: TheDarkTiles_58
+    21300118: TheDarkTiles_59
+    21300120: TheDarkTiles_60
+    21300122: TheDarkTiles_61
+    21300124: TheDarkTiles_62
+    21300126: TheDarkTiles_63
+    21300128: TheDarkTiles_64
+    21300130: TheDarkTiles_65
+    21300132: TheDarkTiles_66
+    21300134: TheDarkTiles_67
+    21300136: TheDarkTiles_68
+    21300138: TheDarkTiles_69
+    21300140: TheDarkTiles_70
+    21300142: TheDarkTiles_71
+    21300144: TheDarkTiles_72
+    21300146: TheDarkTiles_73
+    21300148: TheDarkTiles_74
+    21300150: TheDarkTiles_75
+    21300152: TheDarkTiles_76
+    21300154: TheDarkTiles_77
+    21300156: TheDarkTiles_78
+    21300158: TheDarkTiles_79
+    21300160: TheDarkTiles_80
+    21300162: TheDarkTiles_81
+    21300164: TheDarkTiles_82
+    21300166: TheDarkTiles_83
+    21300168: TheDarkTiles_84
+    21300170: TheDarkTiles_85
+    21300172: TheDarkTiles_86
+    21300174: TheDarkTiles_87
+    21300176: TheDarkTiles_88
+    21300178: TheDarkTiles_89
+    21300180: TheDarkTiles_90
+    21300182: TheDarkTiles_91
+    21300184: TheDarkTiles_92
+    21300186: TheDarkTiles_93
+    21300188: TheDarkTiles_94
+    21300190: TheDarkTiles_95
+    21300192: TheDarkTiles_96
+    21300194: TheDarkTiles_97
+    21300196: TheDarkTiles_98
+    21300198: TheDarkTiles_99
+    21300200: TheDarkTiles_100
+    21300202: TheDarkTiles_101
+    21300204: TheDarkTiles_102
+    21300206: TheDarkTiles_103
+    21300208: TheDarkTiles_104
+    21300210: TheDarkTiles_105
+    21300212: TheDarkTiles_106
+    21300214: TheDarkTiles_107
+    21300216: TheDarkTiles_108
+    21300218: TheDarkTiles_109
+    21300220: TheDarkTiles_110
+    21300222: TheDarkTiles_111
+    21300224: TheDarkTiles_112
+    21300226: TheDarkTiles_113
+    21300228: TheDarkTiles_114
+    21300230: TheDarkTiles_115
+    21300232: TheDarkTiles_116
+    21300234: TheDarkTiles_117
+    21300236: TheDarkTiles_118
+    21300238: TheDarkTiles_119
+    21300240: TheDarkTiles_120
+    21300242: TheDarkTiles_121
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheDarkTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790749674951484e9f28254da215bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356f4bd9be942241b3738c27071dc47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf952307adcec8643a5342e12f00874f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05892fc8f7c07dd4db061ef721e8a279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59266a100fa6cff4a92bf3666c2a987c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692df96f91a5c2145a4cd65fa6b4360f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f68984ec19cb54a9792b3ef04703b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c130ecc39fcd1a4eb6c2871ad2625b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b61ba195e9c134ea40688a97f0259c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfd4ad3a347344095fd03445882154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e875c68848c842af45e944e8b5f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c8243af310c64ca367f0046b792db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2b72d253bd3f459ec62e8549df2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32b10169af64f4bada1c76f194c273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1215d4458ae96243a9304a6f23542ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa8596b455c5a44adfd2fd9ae5335f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1ae2f988419d42b028964a8326ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c396c690820b4f9c5c5cd3401f0df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c4c72c016baa349a0ce74788a50247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_19
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ed87d17db0dd43ae502bba3e6dc17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5d405da981bf41a4cd426ceb31dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_21
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546b7d3ce2921e4fa73f7cd42f5fa1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210cca5ee75326b47b2c041438587a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b05f1b479fd641b9fecb8ded01630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1a2452e8894c44b31259736ccbd9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26354ce44e99d6342b9f7ac94596c2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7720d394636848b2f4fbc849c6ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9885aa438bb449a79eeea8fde1c8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f4790df25ac624a946dbcfa8f5cbde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9e539bdc67274a85b492b3a9921b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5767a1ab509d74e904eff9eb09e374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e8597ccaf4f846a162035eed2099a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19975c26b0de148a41443e4211133d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40b5186f532c344b4cfd34ca340567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10df78f51dcf8145bae62504274fee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b0d78cf7fb4246afbad03e31f4899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3c1fd686abcc4098cb2f8bb2dae7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc20fe4d59828646b014b96a6e51f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82435c63c732764a9cb53bee13ed97e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_39
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f23c5b7857dd4795f0c4ecda7e661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_40
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c71fca025e9f41b202582b4e78e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_41
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb8543009308a429adc969a3874f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a5366647c7af4db4e58f87920fb31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700d2f580d8c0648a05571b2a13a597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c654dc4ed9472f49a9409dbc09b1f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ed1c24ac15034d8d03b2c54c48ac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234aea25f65cd849ad37eb6978949db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a5207b0d615f42943d98f1ee5f915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03a44a2c68f0a41a439f033561e859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a02eff51442234fa1ee1e146b776b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92580ef68a9330b4eb2fcccdf86e353e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6fa2bc77f5d4d41a7b3e23693c7381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba889cad234a586458bc1464efae7734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2b8b9cd737bb4da9fad58a335801a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f940fd506fdd04f9b1a8874c798f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4aca3a00a82a04bb29f6f3032e483b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824565eddbb0e14a90a8f5cc724d0ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb42c69c6857241952dc7851167b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5fa657833856e4a9c7411748718c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_59
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a3273a825619c45b9434b2de7af556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42239ab279f51074ea21d66ee47931e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_61
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f420be4ca5a4ac24c8e5c1bf5112f320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f3e9eb533fc94381920d59f18d277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2df8a16a48c0842a607cf223719174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f391e303f772b488627d3f2ba0ce0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06135f4bce1f4fb41a2089b8208fc530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2143af677fedb544954b4286501938e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c902e78086eea24892715ee862b4c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f14a413877ed4d8b105f7d6328a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda8b42a94aaec43b01512ba0b4932f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10f23de33b95a4ba2f93f45ef2475e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_71
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8914028e17df6ad4b93768e5d0d92ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb343c581232344a873cd587dae6c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07114c492868ed1478b62d386ce5eda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae9174e93c2c040921d02e54cfb9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_75
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07632b3a4352fc34da532115f6853ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a33613e2438c439898e263ae1d45d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_77
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d99fd059938949be3760c4bff4274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c0f5852f0157448ce5180f2d4d099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_79
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed092886f3abf64bb5f6369789278eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_80
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf8b01194131244bdae4409bfb3e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_81
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253dc646ef0756546a52b6dbffa053bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c43ccedcde93dd49be828e397386c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129757723da31f419f22e6293d4aa65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412fd2a0e50b654e9748aec3f01c4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d83d669b7ed64490a0613efa8aa97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58855971e8d52b349b21f400c1540305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffbde71428c3646ab7eeb19871f601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128c860e7881954c89f11c29cfa680a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d21e5d27607f44691001a566d2d1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6ab5cb3e81ac43965769041710885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c6982e3974b841a13934252da7039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf8005978d91240b10ecb48299cb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b19a5b436448419448514eb923527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163bf706728c95418a3834ef35c6e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_95
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e89689551c34540b49870cca136aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_96
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e860d1ac1b5c6438d118760f98435f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_97
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692076df50960f438f9d17f2dd1fff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482fa400bc97174ebbcdd0815b43f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_99
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd835b0fbbc544ba552a1a71017e28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_100
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928319798d55e9149ae7877b6d41da7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_101
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b10dd70cce4b84c8630a3889d42278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e375b688babd44994672aae683a94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13cf234bf6b854daf0c071dbe07334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b81288e3871af449c86ae8692554fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c7af07eac24247a069b488852b44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5bea59195725479389b2441092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88353db7504177248a48f11f364c4651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0f7a9c2ac1564d9887da9c9460ee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e2ddca569ca964888cf187a8e9a474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a48ee9a987a04baab74c960dd1b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87bf9add2d8db4abe2f997d57c193a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3fa8c15375004a8971c34b4e78fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22addcd1178e00f43a01286b735c97b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfefe090d0d33de4383fbb508be494bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57081f00daf2f5e4ca50d5cee239bba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7935c0ca60864aa2beeac5c0ac3ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329bf6c1273527145a766c5b8d534c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129b0196ad434b46b9f7d44ef6aae4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_119
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063eb70bafa47e4e808628dd228860a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_120
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f7415265dec14e822a83603640942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDarkTiles_121
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af71d9b643d584bbac9ce1bb251ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e65e04b92b35ff846b31fa08fce9aafd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

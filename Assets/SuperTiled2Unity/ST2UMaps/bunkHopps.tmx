@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="left-down" width="5" height="5" tilewidth="64" tileheight="64" infinite="0" nextlayerid="13" nextobjectid="14">
+ <tileset firstgid="1" source="BlueDolphinStructuralTiles.tsx"/>
+ <tileset firstgid="82" source="DetailTiles.tsx"/>
+ <layer id="7" name="floor" width="5" height="5">
+  <data encoding="csv">
+19,19,19,19,19,
+0,19,19,19,19,
+0,19,19,19,19,
+0,19,19,19,19,
+0,0,0,0,19
+</data>
+ </layer>
+ <layer id="8" name="walls" width="5" height="5">
+  <data encoding="csv">
+23,28,37,28,60,
+31,0,0,0,63,
+31,0,0,0,63,
+31,0,0,0,63,
+68,65,29,65,69
+</data>
+ </layer>
+ <layer id="9" name="objects" width="5" height="5">
+  <data encoding="csv">
+0,89,0,0,0,
+0,0,0,124,125,
+0,0,0,0,0,
+0,0,0,0,0,
+0,0,0,0,0
+</data>
+ </layer>
+ <layer id="10" name="obcs2" width="5" height="5" offsetx="0" offsety="10">
+  <data encoding="csv">
+0,0,0,0,0,
+0,0,0,0,0,
+142,0,0,146,0,
+154,0,0,0,0,
+0,0,0,0,0
+</data>
+ </layer>
+ <layer id="11" name="obs3" width="5" height="5" offsetx="-253" offsety="115">
+  <data encoding="csv">
+0,0,0,0,0,
+0,0,0,0,147,
+0,0,0,0,0,
+0,0,0,0,0,
+0,0,0,0,0
+</data>
+ </layer>
+ <layer id="12" name="obs4" width="5" height="5" offsetx="26" offsety="-1">
+  <data encoding="csv">
+0,0,0,0,0,
+0,0,0,148,0,
+0,0,0,0,0,
+0,0,0,0,0,
+0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="5" name="collisions" visible="0">
+  <object id="1" x="-0.666667" y="-1" width="322.667" height="58"/>
+  <object id="4" x="0" y="11" width="21" height="309.667"/>
+  <object id="7" x="298.5" y="28.5" width="22" height="291.5"/>
+  <object id="8" x="0.333333" y="306.5" width="321.167" height="14.5"/>
+  <object id="9" x="176.333" y="298" width="123.667" height="10"/>
+  <object id="10" x="17" y="298" width="127" height="10.6667"/>
+  <object id="11" x="75" y="53.6667">
+   <polygon points="0,0 0.666667,20 40.6667,20.3333 40.6667,12 38,-3.33333 55.6667,2.33333 55.3333,9.33333 115,9.66667 115,-3.66667 36.3333,-20.6667"/>
+  </object>
+  <object id="12" x="301" y="66.3333">
+   <polygon points="0,0 -27,-1 -28.3333,18.6667 -64,19 -65,59 2.33333,59.3333"/>
+  </object>
+  <object id="13" x="15" y="140.667">
+   <polygon points="0,0 28.6667,-0.333333 29,123 -2,122.333"/>
+  </object>
+ </objectgroup>
+</map>

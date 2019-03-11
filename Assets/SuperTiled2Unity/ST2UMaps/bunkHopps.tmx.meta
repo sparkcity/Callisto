@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: 4555d1f6a18e04f48b53badac07c383b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/bunkHopps
+    100034: _MapPrfab/bunkHopps/floor
+    100036: _MapPrfab/bunkHopps/obcs2
+    100038: _MapPrfab/bunkHopps/objects
+    100040: _MapPrfab/bunkHopps/obs3
+    100042: _MapPrfab/bunkHopps/obs4
+    100044: _MapPrfab/bunkHopps/walls
+    400000: _MapPrfab/bunkHopps/Transform
+    400034: _MapPrfab/bunkHopps/floor/Transform
+    400036: _MapPrfab/bunkHopps/obcs2/Transform
+    400038: _MapPrfab/bunkHopps/objects/Transform
+    400040: _MapPrfab/bunkHopps/obs3/Transform
+    400042: _MapPrfab/bunkHopps/obs4/Transform
+    400044: _MapPrfab/bunkHopps/walls/Transform
+    11400000: _MapPrfab/bunkHopps/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/bunkHopps/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400070: _MapPrfab/bunkHopps/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400072: _MapPrfab/bunkHopps/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400074: _MapPrfab/bunkHopps/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400076: _MapPrfab/bunkHopps/obcs2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400078: _MapPrfab/bunkHopps/obcs2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400080: _MapPrfab/bunkHopps/obcs2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400082: _MapPrfab/bunkHopps/objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400084: _MapPrfab/bunkHopps/objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400086: _MapPrfab/bunkHopps/objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400088: _MapPrfab/bunkHopps/obs3/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400090: _MapPrfab/bunkHopps/obs3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400092: _MapPrfab/bunkHopps/obs3/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400094: _MapPrfab/bunkHopps/obs4/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400096: _MapPrfab/bunkHopps/obs4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400098: _MapPrfab/bunkHopps/obs4/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400100: _MapPrfab/bunkHopps/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400102: _MapPrfab/bunkHopps/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400104: _MapPrfab/bunkHopps/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400106: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/bunkHopps/Grid
+    3664157343022684176: _MapPrfab/bunkHopps/floor/TilemapRenderer
+    3664157343022684178: _MapPrfab/bunkHopps/obcs2/TilemapRenderer
+    3664157343022684180: _MapPrfab/bunkHopps/objects/TilemapRenderer
+    3664157343022684182: _MapPrfab/bunkHopps/obs3/TilemapRenderer
+    3664157343022684184: _MapPrfab/bunkHopps/obs4/TilemapRenderer
+    3664157343022684186: _MapPrfab/bunkHopps/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/bunkHopps/floor/Tilemap
+    8195094279510102544: _MapPrfab/bunkHopps/obcs2/Tilemap
+    8195094279510102546: _MapPrfab/bunkHopps/objects/Tilemap
+    8195094279510102548: _MapPrfab/bunkHopps/obs3/Tilemap
+    8195094279510102550: _MapPrfab/bunkHopps/obs4/Tilemap
+    8195094279510102552: _MapPrfab/bunkHopps/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

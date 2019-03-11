@@ -1,0 +1,63 @@
+fileFormatVersion: 2
+guid: 1fc98eb54ebd6bd448090c1943071ae6
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/bunkAnton
+    100048: _MapPrfab/bunkAnton/floor
+    100050: _MapPrfab/bunkAnton/objects
+    100052: _MapPrfab/bunkAnton/offsetBoxes
+    100054: _MapPrfab/bunkAnton/offsetComic
+    100056: _MapPrfab/bunkAnton/walls
+    400000: _MapPrfab/bunkAnton/Transform
+    400048: _MapPrfab/bunkAnton/floor/Transform
+    400050: _MapPrfab/bunkAnton/objects/Transform
+    400052: _MapPrfab/bunkAnton/offsetBoxes/Transform
+    400054: _MapPrfab/bunkAnton/offsetComic/Transform
+    400056: _MapPrfab/bunkAnton/walls/Transform
+    11400000: _MapPrfab/bunkAnton/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/bunkAnton/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/bunkAnton/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400086: _MapPrfab/bunkAnton/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/bunkAnton/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400090: _MapPrfab/bunkAnton/objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400092: _MapPrfab/bunkAnton/objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400094: _MapPrfab/bunkAnton/objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400096: _MapPrfab/bunkAnton/offsetBoxes/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400098: _MapPrfab/bunkAnton/offsetBoxes/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400100: _MapPrfab/bunkAnton/offsetBoxes/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400102: _MapPrfab/bunkAnton/offsetComic/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400104: _MapPrfab/bunkAnton/offsetComic/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400106: _MapPrfab/bunkAnton/offsetComic/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400108: _MapPrfab/bunkAnton/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400110: _MapPrfab/bunkAnton/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400112: _MapPrfab/bunkAnton/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400114: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/bunkAnton/Grid
+    3664157343022684176: _MapPrfab/bunkAnton/floor/TilemapRenderer
+    3664157343022684178: _MapPrfab/bunkAnton/objects/TilemapRenderer
+    3664157343022684180: _MapPrfab/bunkAnton/offsetBoxes/TilemapRenderer
+    3664157343022684182: _MapPrfab/bunkAnton/offsetComic/TilemapRenderer
+    3664157343022684184: _MapPrfab/bunkAnton/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/bunkAnton/floor/Tilemap
+    8195094279510102544: _MapPrfab/bunkAnton/objects/Tilemap
+    8195094279510102546: _MapPrfab/bunkAnton/offsetBoxes/Tilemap
+    8195094279510102548: _MapPrfab/bunkAnton/offsetComic/Tilemap
+    8195094279510102550: _MapPrfab/bunkAnton/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

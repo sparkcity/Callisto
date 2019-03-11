@@ -1,0 +1,77 @@
+fileFormatVersion: 2
+guid: 0b32838c19cc0ee418b69997244f377e
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/bunkLacy
+    100002: _MapPrfab/bunkLacy/boxes
+    100042: _MapPrfab/bunkLacy/floor
+    100044: _MapPrfab/bunkLacy/objects
+    100046: _MapPrfab/bunkLacy/obs2
+    100048: _MapPrfab/bunkLacy/tools
+    100050: _MapPrfab/bunkLacy/torah
+    100052: _MapPrfab/bunkLacy/walls
+    400000: _MapPrfab/bunkLacy/Transform
+    400002: _MapPrfab/bunkLacy/boxes/Transform
+    400042: _MapPrfab/bunkLacy/floor/Transform
+    400044: _MapPrfab/bunkLacy/objects/Transform
+    400046: _MapPrfab/bunkLacy/obs2/Transform
+    400048: _MapPrfab/bunkLacy/tools/Transform
+    400050: _MapPrfab/bunkLacy/torah/Transform
+    400052: _MapPrfab/bunkLacy/walls/Transform
+    11400000: _MapPrfab/bunkLacy/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/bunkLacy/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/bunkLacy/boxes/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/bunkLacy/boxes/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/bunkLacy/boxes/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400094: _MapPrfab/bunkLacy/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400096: _MapPrfab/bunkLacy/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400098: _MapPrfab/bunkLacy/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400100: _MapPrfab/bunkLacy/objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400102: _MapPrfab/bunkLacy/objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400104: _MapPrfab/bunkLacy/objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400106: _MapPrfab/bunkLacy/obs2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400108: _MapPrfab/bunkLacy/obs2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400110: _MapPrfab/bunkLacy/obs2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400112: _MapPrfab/bunkLacy/tools/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400114: _MapPrfab/bunkLacy/tools/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400116: _MapPrfab/bunkLacy/tools/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400118: _MapPrfab/bunkLacy/torah/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400120: _MapPrfab/bunkLacy/torah/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400122: _MapPrfab/bunkLacy/torah/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400124: _MapPrfab/bunkLacy/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400126: _MapPrfab/bunkLacy/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400128: _MapPrfab/bunkLacy/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400130: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/bunkLacy/Grid
+    3664157343022684176: _MapPrfab/bunkLacy/boxes/TilemapRenderer
+    3664157343022684178: _MapPrfab/bunkLacy/floor/TilemapRenderer
+    3664157343022684180: _MapPrfab/bunkLacy/objects/TilemapRenderer
+    3664157343022684182: _MapPrfab/bunkLacy/obs2/TilemapRenderer
+    3664157343022684184: _MapPrfab/bunkLacy/tools/TilemapRenderer
+    3664157343022684186: _MapPrfab/bunkLacy/torah/TilemapRenderer
+    3664157343022684188: _MapPrfab/bunkLacy/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/bunkLacy/boxes/Tilemap
+    8195094279510102544: _MapPrfab/bunkLacy/floor/Tilemap
+    8195094279510102546: _MapPrfab/bunkLacy/objects/Tilemap
+    8195094279510102548: _MapPrfab/bunkLacy/obs2/Tilemap
+    8195094279510102550: _MapPrfab/bunkLacy/tools/Tilemap
+    8195094279510102552: _MapPrfab/bunkLacy/torah/Tilemap
+    8195094279510102554: _MapPrfab/bunkLacy/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

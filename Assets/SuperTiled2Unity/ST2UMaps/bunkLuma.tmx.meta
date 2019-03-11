@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: bf43c1877bad1fe4bb2fdaa94fe2f3e0
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/bunkLuma
+    100002: _MapPrfab/bunkLuma/sewing
+    100048: _MapPrfab/bunkLuma/floor
+    100050: _MapPrfab/bunkLuma/objects
+    100052: _MapPrfab/bunkLuma/obs3
+    100054: _MapPrfab/bunkLuma/onbjects2
+    100056: _MapPrfab/bunkLuma/walls
+    400000: _MapPrfab/bunkLuma/Transform
+    400002: _MapPrfab/bunkLuma/sewing/Transform
+    400048: _MapPrfab/bunkLuma/floor/Transform
+    400050: _MapPrfab/bunkLuma/objects/Transform
+    400052: _MapPrfab/bunkLuma/obs3/Transform
+    400054: _MapPrfab/bunkLuma/onbjects2/Transform
+    400056: _MapPrfab/bunkLuma/walls/Transform
+    11400000: _MapPrfab/bunkLuma/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/bunkLuma/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/bunkLuma/sewing/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/bunkLuma/sewing/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/bunkLuma/sewing/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400100: _MapPrfab/bunkLuma/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400102: _MapPrfab/bunkLuma/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400104: _MapPrfab/bunkLuma/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400106: _MapPrfab/bunkLuma/objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400108: _MapPrfab/bunkLuma/objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400110: _MapPrfab/bunkLuma/objects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400112: _MapPrfab/bunkLuma/obs3/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400114: _MapPrfab/bunkLuma/obs3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400116: _MapPrfab/bunkLuma/obs3/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400118: _MapPrfab/bunkLuma/onbjects2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400120: _MapPrfab/bunkLuma/onbjects2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400122: _MapPrfab/bunkLuma/onbjects2/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400124: _MapPrfab/bunkLuma/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400126: _MapPrfab/bunkLuma/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400128: _MapPrfab/bunkLuma/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400130: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/bunkLuma/Grid
+    3664157343022684176: _MapPrfab/bunkLuma/floor/TilemapRenderer
+    3664157343022684178: _MapPrfab/bunkLuma/objects/TilemapRenderer
+    3664157343022684180: _MapPrfab/bunkLuma/obs3/TilemapRenderer
+    3664157343022684182: _MapPrfab/bunkLuma/onbjects2/TilemapRenderer
+    3664157343022684184: _MapPrfab/bunkLuma/walls/TilemapRenderer
+    3664157343022684186: _MapPrfab/bunkLuma/sewing/TilemapRenderer
+    8195094279510102542: _MapPrfab/bunkLuma/floor/Tilemap
+    8195094279510102544: _MapPrfab/bunkLuma/objects/Tilemap
+    8195094279510102546: _MapPrfab/bunkLuma/obs3/Tilemap
+    8195094279510102548: _MapPrfab/bunkLuma/onbjects2/Tilemap
+    8195094279510102550: _MapPrfab/bunkLuma/walls/Tilemap
+    8195094279510102552: _MapPrfab/bunkLuma/sewing/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

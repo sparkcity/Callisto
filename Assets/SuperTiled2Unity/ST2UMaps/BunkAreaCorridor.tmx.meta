@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 9b1b905004f9a604d8f6db7314c16147
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/BunkAreaCorridor
+    100048: _MapPrfab/BunkAreaCorridor/floor
+    100050: _MapPrfab/BunkAreaCorridor/walls
+    400000: _MapPrfab/BunkAreaCorridor/Transform
+    400048: _MapPrfab/BunkAreaCorridor/floor/Transform
+    400050: _MapPrfab/BunkAreaCorridor/walls/Transform
+    11400000: _MapPrfab/BunkAreaCorridor/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/BunkAreaCorridor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400140: _MapPrfab/BunkAreaCorridor/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400142: _MapPrfab/BunkAreaCorridor/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400144: _MapPrfab/BunkAreaCorridor/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400146: _MapPrfab/BunkAreaCorridor/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400148: _MapPrfab/BunkAreaCorridor/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400150: _MapPrfab/BunkAreaCorridor/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400152: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/BunkAreaCorridor/Grid
+    3664157343022684176: _MapPrfab/BunkAreaCorridor/floor/TilemapRenderer
+    3664157343022684178: _MapPrfab/BunkAreaCorridor/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/BunkAreaCorridor/floor/Tilemap
+    8195094279510102544: _MapPrfab/BunkAreaCorridor/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

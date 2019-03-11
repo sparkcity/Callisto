@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: e9a4164fe44ee7347918c55f05ae464b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/labMap
+    100002: _MapPrfab/labMap/blankets
+    100096: _MapPrfab/labMap/floor
+    100098: _MapPrfab/labMap/normalizedObjects
+    100100: _MapPrfab/labMap/offsetcontainmentLeft
+    100102: _MapPrfab/labMap/offsetcontainmentRight
+    100104: _MapPrfab/labMap/offsetdesksLeft
+    100106: _MapPrfab/labMap/offsetdesksRight
+    100108: _MapPrfab/labMap/offsetWallsLEft
+    100110: _MapPrfab/labMap/offsetWallsRight
+    100112: _MapPrfab/labMap/SB
+    100114: _MapPrfab/labMap/walls
+    400000: _MapPrfab/labMap/Transform
+    400002: _MapPrfab/labMap/blankets/Transform
+    400096: _MapPrfab/labMap/floor/Transform
+    400098: _MapPrfab/labMap/normalizedObjects/Transform
+    400100: _MapPrfab/labMap/offsetcontainmentLeft/Transform
+    400102: _MapPrfab/labMap/offsetcontainmentRight/Transform
+    400104: _MapPrfab/labMap/offsetdesksLeft/Transform
+    400106: _MapPrfab/labMap/offsetdesksRight/Transform
+    400108: _MapPrfab/labMap/offsetWallsLEft/Transform
+    400110: _MapPrfab/labMap/offsetWallsRight/Transform
+    400112: _MapPrfab/labMap/SB/Transform
+    400114: _MapPrfab/labMap/walls/Transform
+    11400000: _MapPrfab/labMap/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/labMap/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/labMap/blankets/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/labMap/blankets/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/labMap/blankets/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400110: _MapPrfab/labMap/floor/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400112: _MapPrfab/labMap/floor/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400114: _MapPrfab/labMap/floor/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400116: _MapPrfab/labMap/normalizedObjects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400118: _MapPrfab/labMap/normalizedObjects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400120: _MapPrfab/labMap/normalizedObjects/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400122: _MapPrfab/labMap/offsetcontainmentLeft/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400124: _MapPrfab/labMap/offsetcontainmentLeft/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400126: _MapPrfab/labMap/offsetcontainmentLeft/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400128: _MapPrfab/labMap/offsetcontainmentRight/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400130: _MapPrfab/labMap/offsetcontainmentRight/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400132: _MapPrfab/labMap/offsetcontainmentRight/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400134: _MapPrfab/labMap/offsetdesksLeft/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400136: _MapPrfab/labMap/offsetdesksLeft/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400138: _MapPrfab/labMap/offsetdesksLeft/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400140: _MapPrfab/labMap/offsetdesksRight/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400142: _MapPrfab/labMap/offsetdesksRight/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400144: _MapPrfab/labMap/offsetdesksRight/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400146: _MapPrfab/labMap/offsetWallsLEft/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400148: _MapPrfab/labMap/offsetWallsLEft/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400150: _MapPrfab/labMap/offsetWallsLEft/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400152: _MapPrfab/labMap/offsetWallsRight/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400154: _MapPrfab/labMap/offsetWallsRight/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400156: _MapPrfab/labMap/offsetWallsRight/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400158: _MapPrfab/labMap/SB/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400160: _MapPrfab/labMap/SB/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400162: _MapPrfab/labMap/SB/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400164: _MapPrfab/labMap/walls/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400166: _MapPrfab/labMap/walls/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400168: _MapPrfab/labMap/walls/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400170: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/labMap/Grid
+    3664157343022684176: _MapPrfab/labMap/blankets/TilemapRenderer
+    3664157343022684178: _MapPrfab/labMap/floor/TilemapRenderer
+    3664157343022684180: _MapPrfab/labMap/normalizedObjects/TilemapRenderer
+    3664157343022684182: _MapPrfab/labMap/offsetcontainmentLeft/TilemapRenderer
+    3664157343022684184: _MapPrfab/labMap/offsetcontainmentRight/TilemapRenderer
+    3664157343022684186: _MapPrfab/labMap/offsetdesksLeft/TilemapRenderer
+    3664157343022684188: _MapPrfab/labMap/offsetdesksRight/TilemapRenderer
+    3664157343022684190: _MapPrfab/labMap/offsetWallsLEft/TilemapRenderer
+    3664157343022684192: _MapPrfab/labMap/offsetWallsRight/TilemapRenderer
+    3664157343022684194: _MapPrfab/labMap/SB/TilemapRenderer
+    3664157343022684196: _MapPrfab/labMap/walls/TilemapRenderer
+    8195094279510102542: _MapPrfab/labMap/blankets/Tilemap
+    8195094279510102544: _MapPrfab/labMap/floor/Tilemap
+    8195094279510102546: _MapPrfab/labMap/normalizedObjects/Tilemap
+    8195094279510102548: _MapPrfab/labMap/offsetcontainmentLeft/Tilemap
+    8195094279510102550: _MapPrfab/labMap/offsetcontainmentRight/Tilemap
+    8195094279510102552: _MapPrfab/labMap/offsetdesksLeft/Tilemap
+    8195094279510102554: _MapPrfab/labMap/offsetdesksRight/Tilemap
+    8195094279510102556: _MapPrfab/labMap/offsetWallsLEft/Tilemap
+    8195094279510102558: _MapPrfab/labMap/offsetWallsRight/Tilemap
+    8195094279510102560: _MapPrfab/labMap/SB/Tilemap
+    8195094279510102562: _MapPrfab/labMap/walls/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

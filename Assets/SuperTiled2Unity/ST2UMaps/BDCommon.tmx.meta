@@ -1,0 +1,56 @@
+fileFormatVersion: 2
+guid: 262f8b0be448f024f8bd2c1fb3fbc082
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/BDCommon
+    100098: _MapPrfab/BDCommon/Ground
+    100100: _MapPrfab/BDCommon/Item2Layer
+    100102: _MapPrfab/BDCommon/Items
+    100106: _MapPrfab/BDCommon/Subground
+    400000: _MapPrfab/BDCommon/Transform
+    400098: _MapPrfab/BDCommon/Ground/Transform
+    400100: _MapPrfab/BDCommon/Item2Layer/Transform
+    400102: _MapPrfab/BDCommon/Items/Transform
+    400106: _MapPrfab/BDCommon/Subground/Transform
+    11400000: _MapPrfab/BDCommon/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    11400004: _MapPrfab/BDCommon/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400292: _MapPrfab/BDCommon/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400294: _MapPrfab/BDCommon/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400296: _MapPrfab/BDCommon/Ground/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400298: _MapPrfab/BDCommon/Item2Layer/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400300: _MapPrfab/BDCommon/Item2Layer/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400302: _MapPrfab/BDCommon/Item2Layer/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400304: _MapPrfab/BDCommon/Items/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400306: _MapPrfab/BDCommon/Items/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400308: _MapPrfab/BDCommon/Items/MonoBehaviour-SuperTiled2Unity.TilemapData
+    11400316: _MapPrfab/BDCommon/Subground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400318: _MapPrfab/BDCommon/Subground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400320: _MapPrfab/BDCommon/Subground/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/BDCommon/Grid
+    3664157343022684176: _MapPrfab/BDCommon/Ground/TilemapRenderer
+    3664157343022684178: _MapPrfab/BDCommon/Item2Layer/TilemapRenderer
+    3664157343022684180: _MapPrfab/BDCommon/Items/TilemapRenderer
+    3664157343022684182: _MapPrfab/BDCommon/Subground/TilemapRenderer
+    8195094279510102542: _MapPrfab/BDCommon/Ground/Tilemap
+    8195094279510102544: _MapPrfab/BDCommon/Item2Layer/Tilemap
+    8195094279510102546: _MapPrfab/BDCommon/Items/Tilemap
+    8195094279510102548: _MapPrfab/BDCommon/Subground/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 64
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
