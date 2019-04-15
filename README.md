@@ -10,6 +10,7 @@ I created this game as a personal passion project to increase my understanding h
 
 ## Final Product
 * [Gameplay Demo](https://twitter.com/livesparke/status/1105173811954102272)
+* [Downloads for Windows & MacOS](https://drive.google.com/drive/u/0/folders/1YsVYbYaQXFCcn5o9CYvcaGbjSRmpDgKI) 
 
 # Credits
 ## Callisto 6
