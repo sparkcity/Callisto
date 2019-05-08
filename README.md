@@ -14,5 +14,5 @@ I created this game as a personal passion project to increase my understanding h
 
 # Credits
 ## Callisto 6
-Callisto 6 is a tabletop roleplaying game webseries streamed by Geek & Sundry on their [Twitch](https://www.twitch.tv/geekandsundry) channel. The world and lore of Callisto 6 was created by Sam De Leve and Eric Campbell.
+Callisto 6 is a tabletop roleplaying game webseries streamed by Geek & Sundry on their [Twitch](https://www.twitch.tv/geekandsundry) channel. The world and lore of Callisto 6 were created by Sam De Leve and Eric Campbell.
 
